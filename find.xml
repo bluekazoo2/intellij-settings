@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'omnistac'" />
     <option name="defaultScopeName" value="Project 'omnistac'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'omnistac'" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*Test.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +17,7 @@
       <mask>application.conf</mask>
       <mask>*.conf</mask>
       <mask>*.scala</mask>
+      <mask>*Test.scala</mask>
     </recentFileMasks>
   </component>
 </application>
