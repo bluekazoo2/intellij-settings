@@ -15,9 +15,7 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>application.conf</mask>
       <mask>*.conf</mask>
-      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
