@@ -7,4 +7,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
 </keymap>
