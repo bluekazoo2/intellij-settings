@@ -1,8 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'omnistac'" />
-    <option name="defaultScopeName" value="Project 'omnistac'" />
-    <option name="SEARCH_SCOPE" value="Project 'omnistac'" />
     <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -14,8 +11,7 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.conf</mask>
-      <mask>*Test.scala</mask>
+      <mask>*.proto</mask>
       <mask>*.scala</mask>
     </recentFileMasks>
   </component>
