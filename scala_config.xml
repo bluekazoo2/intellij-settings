@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="MOVE_COMPANION" value="false" />
+  </component>
+</application>
