@@ -5,5 +5,6 @@
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
     <EXCLUDED_PACKAGE NAME="akka.stream.javadsl" />
     <EXCLUDED_PACKAGE NAME="com.typesafe.scalalogging.slf4j" />
+    <EXCLUDED_PACKAGE NAME="java.time" />
   </component>
 </application>
