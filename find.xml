@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.conf" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,9 +20,9 @@
       <mask>*.mxml</mask>
       <mask>build.sbt</mask>
       <mask>*.proto</mask>
-      <mask>*.conf</mask>
       <mask>*.sql</mask>
       <mask>*.scala</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
