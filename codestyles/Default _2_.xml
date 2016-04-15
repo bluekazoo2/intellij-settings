@@ -1,8 +1,5 @@
 <code_scheme name="Default (2)">
   <option name="RIGHT_MARGIN" value="160" />
-  <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
