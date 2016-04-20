@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="build.sbt" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,8 +21,8 @@
       <mask>*.proto</mask>
       <mask>*.conf</mask>
       <mask>*.sql</mask>
-      <mask>*.scala</mask>
       <mask>build.sbt</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
