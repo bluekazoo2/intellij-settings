@@ -1,4 +1,8 @@
 <keymap version="1" name="Ray" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
