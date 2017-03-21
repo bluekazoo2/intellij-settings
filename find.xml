@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,8 +18,8 @@
       <mask>*.sql</mask>
       <mask>*.sbt</mask>
       <mask>*.conf</mask>
-      <mask>*.scala</mask>
       <mask>*.proto</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
