@@ -3,6 +3,7 @@
     <option name="COMPILE_SERVER_ID" value="d07c93a7-1dbb-4230-9472-f2e96c6873fe" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4024" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss1m -Xms512m -Xmx4096m -XX:ReservedCodeCacheSize=240m -XX:+UseCompressedOops -XX:+UseStringDeduplication –XX:+UseG1GC" />
     <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
     <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
   </component>
